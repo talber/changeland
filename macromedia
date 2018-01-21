@@ -442,7 +442,7 @@ else document.write("I can not find out if you have Flash Player 6 installed. Pl
 
                   </font> </td>
 
-                <td width="188" align="center" bgcolor="#FFFFFF"><a href="http://www.macromedia.com/go/getflashplayer/" target="_top"><img src="http://www.macromedia.com/images/get_flashplayer.gif" width=88 height=31 alt="Get Macromedia Flash Player" border="0"></a></td>
+                <td width="188" align="center" bgcolor="#FFFFFF"><a href="http://www.macromedia.com/go/getflashplayer/" target="_top"><img src="120px-Adobe_Flash_Professional_icon.png" width=88 height=31 alt="Get Macromedia Flash Player" border="0"></a></td>
 
               </tr>
 
